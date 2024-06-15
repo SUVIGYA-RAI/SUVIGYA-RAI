@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm SUVIGYA</h1>
 <h3 align="center">An ambitious Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suvigya-rai&label=Profile%20views&color=0e75b6&style=flat" alt="suvigya-rai" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=suvigya-rai&label=Profile%20views&color=0e75b6&style=flat" alt="suvigya-rai" /> </p>
 
 - 📫 How to reach me **suvigyarai854@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/suvigya-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvigya-rai" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/suvigya-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="suvigya-rai" height="30" width="40" /></a>
 <a href="https://instagram.com/__._suvii_.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__._suvii_.__" height="30" width="40" /></a>
