@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-🎯  I’m currently working on Algorithms and Data Structures<br><br>🌱 I’m currently learning Java, CPP, DSA and Frameworks<br><br>👀 I'm intrested in coding with like minded people<br><br>👯 I’m looking to collaborate on beginner friendly projects<br><br>😄 Pronounce : she/her<br><br>⚡ Fun fact: Coding bugs were not named after an actual bug 😂
+🎯  I’m currently working on Algorithms and Data Structures<br><br>🌱 I’m currently learning Java, CPP, DSA and Frameworks<br><br>👀 I'm intrested in coding with like minded people<br><br>👯 I’m looking to collaborate on beginner friendly projects<br><br>😄 Pronouns : she/her<br><br>⚡ Fun fact: Coding bugs were not named after an actual bug 😂
 
 
 # 💻 Tech Stack:
