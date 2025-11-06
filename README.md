@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SUVIGYA</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-# 💫 About Me:
+💫 About Me:
 🎯  I’m currently working on Algorithms and Data Structures<br><br>🌱 I’m currently learning Java, CPP, DSA and Frameworks<br><br>👀 I'm interested in coding with like minded people<br><br>👯 I’m looking to collaborate on beginner friendly projects<br><br>😄 Pronouns : she/her<br><br>⚡ Fun fact: The entire internet weighs about the same as a strawberry! 😂
 
 # 💻 Tech Stack:
