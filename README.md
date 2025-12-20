@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnY3MnJidzhmZTkzOG9tcjM1MDZwYnp5eGpoeXJhcmJqOHh5cW9yZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Y2v7QUe94JRJqE7ymW/giphy.gif" width="50">
   Hi 👋, I'm Suvigya Rai! 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWszajRoajdzbXBjdnptZnMwa3R1dzZlOHllam55bnVyaTIxMHFxOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hNjXHs2XNGRwvGxei9/giphy.gif" width="50">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZsZmV1N3ozcmVoNXFjemgwcnZ5YWZsMmYxZWN0bTY0MGNtNmlrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qs5FYEsfQlclJ1FtWV/giphy.gif" width="50">
+  <!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZsZmV1N3ozcmVoNXFjemgwcnZ5YWZsMmYxZWN0bTY0MGNtNmlrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qs5FYEsfQlclJ1FtWV/giphy.gif" width="50"> -->
 </h1>
 
 <!-- <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG56czlwOG4xb25ibXg0dGh5OGcwbWZ1OWJidmVucXoxNHBldmFrdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="230"> -->
@@ -16,8 +16,8 @@
 </p>
 
 [![LinkedIn: Suvigya Rai](https://img.shields.io/badge/-Suvigya%20Rai-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suvigya-rai/)](https://www.linkedin.com/in/suvigya-rai)
-![GitHub followers](https://img.shields.io/github/followers/Prince-Anand?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=Prince-Anand.Prince-Anand)
+![GitHub followers](https://img.shields.io/github/followers/SUVIGYA-RAI?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=SUVIGYA-RAI.SUVIGYA-RAI)
 
 ---
 
