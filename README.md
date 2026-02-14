@@ -1,7 +1,7 @@
 <h1>
   <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2R4bmM3Z3Vuamp6YmdxczdwNmM4Ymk1dWUxZTlwNjh1dDEwemRzZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hjZ3T2Eso1wJ8QWoCl/giphy.gif" width="30"/> -->
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnY3MnJidzhmZTkzOG9tcjM1MDZwYnp5eGpoeXJhcmJqOHh5cW9yZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Y2v7QUe94JRJqE7ymW/giphy.gif" width="50">
-  Hi 👋, I'm Suvigya Rai! 
+  Hii 👋, I'm Suvigya Rai! 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWszajRoajdzbXBjdnptZnMwa3R1dzZlOHllam55bnVyaTIxMHFxOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hNjXHs2XNGRwvGxei9/giphy.gif" width="50">
   <!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZsZmV1N3ozcmVoNXFjemgwcnZ5YWZsMmYxZWN0bTY0MGNtNmlrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qs5FYEsfQlclJ1FtWV/giphy.gif" width="50"> -->
 </h1>
